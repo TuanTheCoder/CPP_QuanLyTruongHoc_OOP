@@ -1,1 +1,1 @@
-# Project1
+# BT OOP QuanLyTruongHoc
